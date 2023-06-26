@@ -1,7 +1,7 @@
 # LDAP Count
 
 ## About
-This repository, **gokalpmeric/ldapcount**, contains a Python script that counts LDAP entries. Find the number of ldap connections for every 24h.
+This repository, **gokalpmeric/ldapcount**, contains a Python script that counts LDAP entries. Find the number of ldap connections for every 24h. It will generate excel spreadsheet and emails it.
 
 ## Script Included
 
